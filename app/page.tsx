@@ -1,4 +1,6 @@
-// app/page.tsx "use client";
+// app/page.tsx 
+
+"use client";
 
 import { useRouter } from "next/navigation"; import { useState } from "react";
 
